@@ -85,9 +85,8 @@ screenshot
 ## 📂 Project Structure
 
 remote-command-monitoring-tool/  
-│── listener.py  
+│── server.py  
 │── client.py  
-│── requirements.txt  
 │── README.md  
 
 ---
