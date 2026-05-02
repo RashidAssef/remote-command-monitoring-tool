@@ -48,11 +48,12 @@ The tool establishes a reverse connection to a listener, allowing execution of s
 
 ## 🔍 Setup & Usage
 
-### Clone Repository
+## Installation
+```bash
 
 git clone https://github.com/your-username/remote-command-monitoring-tool.git  
 cd remote-command-monitoring-tool  
-
+```
 ---
 
 ### Install Requirements
